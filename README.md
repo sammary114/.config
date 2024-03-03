@@ -1,4 +1,4 @@
-# my_wezterm_config
+# my_terminal_config
 
 ## use guide
 
